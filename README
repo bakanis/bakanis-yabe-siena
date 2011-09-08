@@ -1,0 +1,13 @@
+An attempt to port Play! framework YABE tutorial from JPA to Siena and run it on Google app engine.
+
+Mainly the JPA code is commented out and Siena code has been written under it so one can compare JPA to Siena.
+Though there are some places where some code was deleted and any new was added sorry I did not make any comments 
+so one has to figure everything out on his or her own. It's just a newbie stuff for someone just like me..
+Thanks for Play! framework to Play! team and for Siena persitence API for Java to Pascal and his team and everyone 
+dabling in the java world :)
+
+Resources:
+
+Play! framework home page --- http://playframework.com/
+Siena project home page --- http://www.sienaproject.com/index.html
+Cool tutorial on Siena --- https://github.com/mandubian/play-siena/blob/master/documentation/tutorials/heroku_sdb_tutorial.textile
