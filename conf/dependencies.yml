@@ -1,0 +1,8 @@
+# Application dependencies
+
+require:
+    - play
+    - play -> crudsiena [2.0.1,)
+    - play -> siena 2.0.5
+    - play -> gae 1.4
+    - net.tanesha.recaptcha4j -> recaptcha4j 0.0.7
